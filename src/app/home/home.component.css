@@ -1,0 +1,5 @@
+
+  nga-repository-item {
+    margin: 0 8px 16px;
+    flex-basis: calc(100% / 3 - 16px);
+    }
